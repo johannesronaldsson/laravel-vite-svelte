@@ -1,13 +1,11 @@
-# Laravel, Inertia, Svelte with Vite and Bootstrap Boilerplate.
-
-Instead of making X commands and making this work, here is boilerplate.
+# Laravel, Inertia, Svelte with Vite and TailwindCSS.
 
 Copy this repository, run following commands:
 
 ```
 composer install
-npm install
-npm run dev
-npm run watch
+yarn install
+yarn dev
+yarn watch
 ```
 and you are ready to go!
