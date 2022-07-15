@@ -21,7 +21,7 @@
         "bootstrap-icons": "^1.8.3",
         "laravel-vite-plugin": "^0.2.4",
         "postcss": "^8.4.14",
-        "svelte": "^3.48.0",
+        "svelte": "^3.49.0",
         "svelte-preprocess": "^4.10.7",
         "svelte-simples": "^0.3.3",
         "sveltestrap": "^5.9.0",
